@@ -1,0 +1,52 @@
+body {
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+}
+
+header img {
+    height: 50px;
+}
+
+nav {
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+}
+
+nav ul {
+    width: 80%;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+ul li {
+    padding: 10px;
+}
+
+main {
+    width: 100%;
+    display: flex;
+}
+
+aside {
+    width: 30%;
+}
+
+div.content {
+    width: 60%;
+}
+
+div.content iframe {
+    width: 100%;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    justify-content: center;
+}
